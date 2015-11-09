@@ -12,3 +12,4 @@ Applications
    recruitment
    inventory
    point_of_sale
+   sale_ebay
