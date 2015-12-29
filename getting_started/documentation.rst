@@ -81,7 +81,7 @@ you through all the steps. But you can also:
 What do we expect from you?
 ===========================
 
-We used to deploy full featured projects within 25 to 250 hours of
+We typically deploy full featured projects within 25 to 250 hours of
 services, which is much faster than any other ERP vendor on the market.
 Most projects are completed between 1 and 4 calendar months.
 
